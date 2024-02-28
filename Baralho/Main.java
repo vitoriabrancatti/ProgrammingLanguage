@@ -1,4 +1,5 @@
-import org.example.enums.Naipe;
+package Baralho;
+import Baralho.enums.Naipe;
 
 @SuppressWarnings("unused")
 public class Main {
@@ -7,3 +8,4 @@ public class Main {
         System.out.println(baralho.toString());
     }
 }
+//atualizando o nome
